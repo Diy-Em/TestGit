@@ -4,5 +4,7 @@ public class Main {
         System.out.println("Test de changement");
         System.out.println("boy");
         System.out.println("Salut");
+        System.out.println("bav");
+
     }
 }
